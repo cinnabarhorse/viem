@@ -1,5 +1,13 @@
 # viem
 
+## 2.21.45
+
+### Patch Changes
+
+- [#2992](https://github.com/wevm/viem/pull/2992) [`49f7e0866b98af21d08d28a17e6d06f44b00790f`](https://github.com/wevm/viem/commit/49f7e0866b98af21d08d28a17e6d06f44b00790f) Thanks [@Zhangnong](https://github.com/Zhangnong)! - Added Bitgert Mainnet.
+
+- [#2991](https://github.com/wevm/viem/pull/2991) [`0e36ce17c9a592f1fb269b14a967e11d8af66626`](https://github.com/wevm/viem/commit/0e36ce17c9a592f1fb269b14a967e11d8af66626) Thanks [@Zhangnong](https://github.com/Zhangnong)! - Added Nahmii 2 Mainnet.
+
 ## 2.21.44
 
 ### Patch Changes
